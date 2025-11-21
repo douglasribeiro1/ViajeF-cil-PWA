@@ -1,7 +1,5 @@
 {
   "name": "ViajaFácil PWA",
   "description": "Um planejador de viagens completo com controle de orçamento, itinerário e assistência de IA.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
+  "requestFramePermissions": []
 }
